@@ -1,1 +1,5 @@
 # shopping
+
+banana 
+orange
+carrot
